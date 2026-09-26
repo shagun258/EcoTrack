@@ -3,6 +3,7 @@
 A full-stack platform connecting citizens, waste collectors, recycling centers,
 and administrators — with AI-based waste image classification, map-based
 recycling center discovery, pickup scheduling, and a rewards/leaderboard system.
+It also helps users log daily activities related to waste and recycling.
 
 Built as a CSE portfolio / final-year project. Every feature in this README has
 been exercised against a real database and a real HTTP client during
